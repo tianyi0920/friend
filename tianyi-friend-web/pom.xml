@@ -7,7 +7,7 @@
     <groupId>com.tianyi.friend</groupId>
     <artifactId>friend-web</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>friend-service</name>
+    <name>friend-web</name>
     <url>http://maven.apache.org</url>
     <dependencies>
         <dependency>
